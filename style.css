@@ -6,8 +6,8 @@ html, body {
 
 body {
     background-color: whitesmoke;
-    border-left: 45px solid orangered;
-    border-right: 45px solid orangered;
+    border-left: 55px solid orangered;
+    border-right: 55px solid orangered;
 }
 
 .nome-partido{
@@ -37,8 +37,6 @@ body {
 }
 
 .botao-container {
-    padding: 20px; 
-    border: 3px solid #ff4500; 
     border-radius: 10px; 
     display: flex; 
     justify-content: center;  /* Centraliza horizontalmente */
@@ -61,3 +59,4 @@ body {
 .botao:hover {
     background-color: #ff8c00;
 }
+
