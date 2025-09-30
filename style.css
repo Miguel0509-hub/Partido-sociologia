@@ -1,0 +1,13 @@
+body{
+    background-color: whitesmoke;
+    border-left: 45px solid orangered;
+    border-right: 45px solid orangered;
+}
+
+h1{
+    font-size: 5rem;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: darkgreen;
+}
+
