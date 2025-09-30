@@ -37,28 +37,27 @@ body {
 }
 
 .botao-container {
-    text-align: center;
-    align-items: center;
     padding: 20px; 
     border: 3px solid #ff4500; 
     border-radius: 10px; 
-    display: inline-block; 
+    display: flex; 
+    justify-content: center;  /* Centraliza horizontalmente */
     background-color: whitesmoke; 
+    text-align: center;
 }
 
 .botao {
     font-size: 1.5rem;
-    padding: 10px 20px;
+    font-weight: bold;
+    padding: 10px 25px;
     background-color: #ff4500;
     color: whitesmoke;
     text-decoration: none;
     border-radius: 5px;
     font-family: Arial, Helvetica, sans-serif;
-    display: inline-block; 
     text-align: center;
 }
 
 .botao:hover {
-    text-align: center;
     background-color: #ff8c00;
 }
