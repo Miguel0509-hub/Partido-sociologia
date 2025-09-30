@@ -1,13 +1,64 @@
-body{
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
     background-color: whitesmoke;
     border-left: 45px solid orangered;
     border-right: 45px solid orangered;
 }
 
-h1{
+.nome-partido{
     font-size: 5rem;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
     color: darkgreen;
 }
 
+.bandeira{
+    text-align: center;
+    align-items: center;
+}
+
+.ideologia{
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #007bff;
+}
+
+.candidatos{
+    font-size: 5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: darkgreen;
+}
+
+.botao-container {
+    text-align: center;
+    align-items: center;
+    padding: 20px; 
+    border: 3px solid #ff4500; 
+    border-radius: 10px; 
+    display: inline-block; 
+    background-color: whitesmoke; 
+}
+
+.botao {
+    font-size: 1.5rem;
+    padding: 10px 20px;
+    background-color: #ff4500;
+    color: whitesmoke;
+    text-decoration: none;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block; 
+    text-align: center;
+}
+
+.botao:hover {
+    text-align: center;
+    background-color: #ff8c00;
+}
