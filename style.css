@@ -29,6 +29,13 @@ body {
     color: #007bff;
 }
 
+.ideologia-title{
+    font-size: 4rem;
+    color: darkgreen;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
 .candidatos{
     font-size: 5rem;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -84,4 +91,5 @@ body {
     text-align: center;
     color: #007bff;
     font-weight: bold;
+    border-radius: 10px;
 }
