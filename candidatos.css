@@ -8,6 +8,7 @@ body {
     background-color: whitesmoke;
     border-left: 55px solid orangered;
     border-right: 55px solid orangered;
+    height: auto;
 }
 
 .nome-partido{
@@ -85,11 +86,15 @@ body {
     background-color: #ff8c00;
 }
 
-.presidente-txt{
+.presidente-anuncio{
     font-size: 2rem;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     color: #007bff;
     font-weight: bold;
     border-radius: 10px;
+}
+
+.presidente-txt{
+    
 }

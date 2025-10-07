@@ -1,5 +1,5 @@
 html, body {
-    height: 125%;
+    height: 155%;
     margin: 0;
     padding: 0;
 }
@@ -8,6 +8,7 @@ body {
     background-color: whitesmoke;
     border-left: 55px solid orangered;
     border-right: 55px solid orangered;
+    height: auto;
 }
 
 .nome-partido{
@@ -23,7 +24,7 @@ body {
 }
 
 .ideologia{
-    font-size: 2rem;
+    font-size: 28px;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     color: #007bff;
