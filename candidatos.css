@@ -1,0 +1,111 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: whitesmoke;
+    border-left: 55px solid orangered;
+    border-right: 55px solid orangered;
+    height: auto;
+}
+
+.nome-partido{
+    font-size: 5rem;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: darkgreen;
+}
+
+.bandeira{
+    text-align: center;
+    align-items: center;
+}
+
+.ideologia{
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #007bff;
+}
+
+.ideologia-title{
+    font-size: 4rem;
+    color: darkgreen;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.candidatos{
+    font-size: 5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: darkgreen;
+}
+
+.presidente {
+    text-align: center;
+    border-radius: 10px;
+}
+
+.presidente img {
+    border-radius: 5px; 
+}
+
+.deputado {
+    text-align: center;
+    border-radius: 10px;
+}
+
+.deputado img {
+    border-radius: 5px; 
+}
+
+.botao-container {
+    border-radius: 10px; 
+    display: flex; 
+    justify-content: center; 
+    background-color: whitesmoke; 
+    text-align: center;
+}
+
+.botao {
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 10px 25px;
+    background-color: #ff4500;
+    color: whitesmoke;
+    text-decoration: none;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.botao:hover {
+    background-color: #ff8c00;
+}
+
+.presidente-anuncio{
+    font-size: 3.2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #007bff;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.presidente-txt{
+    text-align: center;
+    color: #007bff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.nome-title{
+    text-align: center;
+    color: darkgreen;
+    font-size: 4rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
