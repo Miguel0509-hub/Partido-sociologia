@@ -1,5 +1,5 @@
 html, body {
-    height: 170%;
+    height: 100%;
     margin: 0;
     padding: 0;
 }
@@ -87,7 +87,7 @@ body {
 }
 
 .presidente-anuncio{
-    font-size: 2rem;
+    font-size: 3.2rem;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     color: #007bff;
@@ -96,5 +96,16 @@ body {
 }
 
 .presidente-txt{
-    
+    text-align: center;
+    color: #007bff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.nome-title{
+    text-align: center;
+    color: darkgreen;
+    font-size: 4rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
