@@ -109,3 +109,17 @@ body {
     font-size: 4rem;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+.propostaSen{
+    font-size: 15px;
+    color: #007bff;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.propostaDep{
+    font-size: 15px;
+    color: #007bff;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+}
