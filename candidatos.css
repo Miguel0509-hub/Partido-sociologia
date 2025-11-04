@@ -87,7 +87,7 @@ body {
 }
 
 .presidente-anuncio{
-    font-size: 3.2rem;
+    font-size: 26px;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     color: #007bff;
@@ -99,7 +99,7 @@ body {
     text-align: center;
     color: #007bff;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 2rem;
+    font-size: 18px;
     font-weight: bold;
 }
 
@@ -108,4 +108,18 @@ body {
     color: darkgreen;
     font-size: 4rem;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.propostaSen{
+    font-size: 15px;
+    color: #007bff;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.propostaDep{
+    font-size: 15px;
+    color: #007bff;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
 }
