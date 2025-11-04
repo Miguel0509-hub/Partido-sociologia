@@ -123,3 +123,11 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     text-align:center;
 }
+
+.desenvolvedor{
+    text-align: center;
+    color:#ff4500;
+    text-decoration: underline;
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+}
